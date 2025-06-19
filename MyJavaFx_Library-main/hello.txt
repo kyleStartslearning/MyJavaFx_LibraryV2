@@ -1,0 +1,9 @@
+Improving my existing project.
+
+- First commit after a long time. haha, forgot about this project
+- Will be implementing MVC architecture for better code organization
+- Migration from my hardcoded data to a database-driven approach using SQL or something similar. Figuring out how to do it
+- Still using JavaFX for the GUI system
+- Good luck to me hope it never breaks 😭
+
+waray lingaw
